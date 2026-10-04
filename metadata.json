@@ -1,0 +1,6 @@
+{
+  "name": "Sattva & Co. — Modern Botanical Wellness & Daily Rituals",
+  "description": "Modern wellness rituals rooted in nature and designed for everyday life. Hair, scalp, skin, sleep, and botanical herbal wellness essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
